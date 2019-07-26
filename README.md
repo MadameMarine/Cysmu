@@ -1,6 +1,6 @@
 # Cysmu : Le lecteur qui vous ressemble
 
-Un lecteur musical complet et léger, entièrement personnalisable qui offre une expérience de navigation et d'écoute unique et innovant.
+Un lecteur musical complet et léger, entièrement personnalisable qui offre une expérience de navigation et d'écoute unique et innovante.
 
 ## Features
 ### Lecteur de musique
