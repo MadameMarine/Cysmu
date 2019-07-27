@@ -1,6 +1,6 @@
 # Cysmu : Le lecteur qui vous ressemble
 
-Un lecteur musical complet et léger, entièrement personnalisable qui offre une expérience de navigation et d'écoute unique et innovante.
+Un lecteur musical complet et léger, entièrement personnalisable qui offre une expérience de navigation et d'écoute unique et innovant.
 
 ## Features
 ### Lecteur de musique
@@ -29,6 +29,19 @@ Permet de lire en boucle une unique piste ou une file de lecture entier par l'in
 - Désactivé
 - Lecture en boucle (file)
 - Lecture en boucle (piste)
+
+### Mini Lecteur
+Une version plus petite du lecteur permettant d'effectuer des interactions simples lorsque le lecteur de Cysmu est en arrière plan.
+
+Celui ci intervient:
+- Dans la bar de notification lorsqu'une musique se lance
+- En bas de l'écran lorsque l'utilisateur navigue dans l'application 
+- Sur l’écran de verrouillage
+
+Le mini lecteur propose une interface simplifiée avec les informations et interactions minimum:
+- Lancer et mettre en pause la musique
+- Aller à la piste suivante / précédente
+- Voir le titre, l'album et l'artiste du titre en cours de lecture
 
 ### Playlist
 Ce sont des listes personnalisées créées par l'utilisateur.
@@ -80,12 +93,10 @@ L'utilisateur pourra réinitialiser son Modula avec la configuration par défaut
 Permet à l'utilisateur de varier les saveurs entre plusieurs modes d'écoutes prédéfinis.
 Ces modes résultent d'un paramétrage particulier de filtres ou d'amplificateurs de bandes de fréquences sonores.
 Le thème s'adapte à l'ambiance sélectionnée. 
-
 | Ambiance | Description |
 |--|--|
 | Cozy|  |
 | ...|  |
 | ...|  |
 | ...|  |
-
 
