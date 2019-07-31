@@ -66,7 +66,7 @@ Permet la suppression rapide d'un élément de la file.
 
 ### Modula
 La page centrale et le point d'entrer de l'application.
-Il s'agit d'un tableau bord entièrement personnalisable où des items (musique, albums, playlist, ...) peuvent être **pin** par l'utilisateur, ils jouent alors le rôle de raccourci.
+Il s'agit d'un tableau de bord entièrement personnalisable où des items (musique, albums, playlist, ...) peuvent être **pin** par l'utilisateur, ils jouent alors le rôle de raccourci.
 
 :warning: La partie **personnalisation** et **suppression** feront l'objet d'une étude dans une User Story dédiée.
 
