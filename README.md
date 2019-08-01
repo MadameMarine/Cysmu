@@ -105,7 +105,7 @@ Le thème s'adapte à l'ambiance sélectionnée.
 
 # English Version
 
-# Cysmu : The music player that looks like you
+# Cysmu : The music player that suits you best 
 
 
 A completed, light, and fully cuztomizable music player that offers an unique, and innovative and listening experience.
