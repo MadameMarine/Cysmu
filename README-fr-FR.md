@@ -1,5 +1,7 @@
 # Cysmu : Le lecteur qui vous ressemble
 
+Traductions: [EN](https://github.com/MadameMarine/Cysmu/blob/master/README.md) | FR
+
 Un lecteur musical complet et léger, entièrement personnalisable qui offre une expérience de navigation et d'écoute unique et innovant.
 
 ## Features
