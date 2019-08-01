@@ -97,7 +97,7 @@ Le thème s'adapte à l'ambiance sélectionnée.
 | Ambiance | Description |
 |--|--|
 | Cozy|  |
-| ...|  |
+| Classique|  |
 | ...|  |
 | ...|  |
 
@@ -210,7 +210,7 @@ The theme adapts to the selected mood.
 | Ambiance | Description |
 |--|--|
 | Cozy|  |
-| ...|  |
+| Classic|  |
 | ...|  |
 | ...|  |
 
