@@ -2,42 +2,42 @@
 
 Translations: EN | [FR](https://github.com/MadameMarine/Cysmu/blob/master/README-fr-FR.md)
 
-A completed, light, and fully cuztomizable music player that offers an unique, and innovative and listening experience.
+A completed, light, and fully cuztomizable music player that offers an unique, and innovative listening experience.
 
 ## Features
 ### Music Player
-An interface representing a reader to play music.
-It displays informations about the current track such as title, author, and album.
+An interface representing a music player.
+Information about the current track such as title, author, and album are displayed.
 
 
  ##### Play music
-Start the music through a button.
+Start the music using a button.
 
  ##### Mettre en pause
- Stop the music through a button 
+ Stop the music using a button 
 
  ##### Go to the next / previous track
  Go to the next/previous track by using the **go back** and **next track** buttons.
  
  Expected behaviour : 
  - When the music is not played, **go back** reset the current track.
- - **Next track** aims at to go the next track in any case.
+ - **Next track** starts the next track in any case.
 
  ##### Time Jump
  A quick press on the right / left side of the screen generate a 15 sec jump forward / backward of the current music.
  The value of 15 sec will be customizable by the user.
  
  ##### See the progress of the current queue 
- Displays an interactive progress bar representing the progress of track
+ Displays an interactive progress bar representing the progress of the track
   
  ##### Loop playback
  Loops a single or entire queue through a button that has the following states : 
- - Desactivated
- -  Loop playback (queue)
- -  Loop playback (track)
+ - Deactivated
+ - Loop playback (queue)
+ - Loop playback (track)
 
 ### Mini Player
-A smaller version of player to perform simple interactions when Cysmu is in the background.
+A smaller version of the music player to perform simple interactions when Cysmu is in the background.
 
 Mini Player is present : 
 - In the notification bar when a music starts
@@ -47,16 +47,16 @@ Mini Player is present :
 The Mini Player offers a simplified interface with the minimum informations and interactions : 
  - Play and pause the music
  - Go to the next / previous track
- - See the title, ambum and artiste of the title being played
+ - See the title, ambum and artist of the title being played
 
 ### Playlist
-These are custom lists created by the user.
+These are customs lists created by the user.
 
 ##### Favorite
-A special playlist named **Favorite** permit to save user's favorate musics with an icon  ❤.
+A special playlist named **Favorite** allows to save the favorites song with an icon ❤.
 
-##### Quick creation  :zap:
-We will able to create a playlist  directly with the contextual menu for adding a track.
+##### Quick creation :zap:
+We will able to create a playlist directly with the dialog for adding a track.
 
 ### Playback file
 This is a list with all the tracks to be played by the music player.
@@ -68,7 +68,7 @@ Add a track at the top of the playback file.
 Mix the list randomly.
 
 ##### Swipe to delete
-Quick suppression of item from the queue.
+Quick deletion of item from the queue.
 
 ### Modula
 This is the main page and entry point of the application.
@@ -86,25 +86,27 @@ An **item** can be:
 - a playlist
  
 ##### :warning: Personnalisation 
-The user can reorganize his Modula with a **Drag and Drop** system that will be activated with a **long press**
+The user can reorganize his Modula with a **Drag and Drop** behavior after a **long press**
 
-##### :warning: Suppression
-L'utilisateur pourra supprimer un item de son Modula en appuyant sur une icône :x: qui s'affichera sur un des bords de l'item.
+##### :warning: Deletion
+The user can delete an item from his Modula by pressing :x: on its top right corner.
 
-##### Reinitialisation
-The user we be able to resert his Modula with the default configuration.
+##### Reset
+The user can reset his Modula back to the default configuration.
 
-### Various
+### Miscellaneous 
 
 ##### Dynamic atmospheree
-Offers the user the possiblity to vary the ambiance between  multiple predefined listening modes.
+A pool of predifined listening mode will set an unique atmosphere across the app.
 These modes result from a particularr settings of filters or amplifiers of sound frecuency bands.
-The theme adapts to the selected mood.
+The app theme adapts to match the selected mood.
+
+Here a list of all the current **ambiances**:
 
 | Ambiance | Description |
-|--|--|
-| Cozy|  |
-| Classic|  |
-| ...|  |
-| ...|  |
+| -- | -- |
+| Cozy |  |
+| Classic |  |
+| ... |  |
+| ... |  |
 
