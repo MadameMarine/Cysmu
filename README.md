@@ -2,7 +2,7 @@
 
 Translations: EN | [FR](https://github.com/MadameMarine/Cysmu/blob/master/README-fr-FR.md)
 
-A completed, light, and fully cuztomizable music player that offers an unique, and innovative listening experience.
+A complete, light, and fully cuztomizable music player that offers an unique, and innovative listening experience.
 
 ## Features
 ### Music Player
