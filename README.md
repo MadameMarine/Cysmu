@@ -93,12 +93,14 @@ L'utilisateur pourra réinitialiser son Modula avec la configuration par défaut
 Permet à l'utilisateur de varier les saveurs entre plusieurs modes d'écoutes prédéfinis.
 Ces modes résultent d'un paramétrage particulier de filtres ou d'amplificateurs de bandes de fréquences sonores.
 Le thème s'adapte à l'ambiance sélectionnée. 
+
 | Ambiance | Description |
 |--|--|
 | Cozy|  |
 | ...|  |
 | ...|  |
 | ...|  |
+
 
 
 # English Version
